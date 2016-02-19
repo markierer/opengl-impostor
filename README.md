@@ -24,7 +24,7 @@ The server sends a header with following information:
 ## Samples
 
 ### Multi textures
-![Alt text](https://github.com/markierer/opengl-impostor/blob/master/Pictures/Test5.png)
+
 
 ### Tux racer :)
 ![Alt text](https://github.com/markierer/opengl-impostor/blob/master/Pictures/Test7a.png)
