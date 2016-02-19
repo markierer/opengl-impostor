@@ -21,5 +21,5 @@ The server sends a header with following information:
 1. Enter the gluLookAt parameters in the LogClient.ini
 2. Start the client before the application!
 
-[[https://github.com/markierer/opengl-impostor/blob/master/Pictures/Test5.png|alt=Multi texture]]
+![Alt text](https://github.com/markierer/opengl-impostor/blob/master/Pictures/Test5.png)
 [[https://github.com/markierer/opengl-impostor/blob/master/Pictures/Test7a.png|alt=Tux Racer!]]
